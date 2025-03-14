@@ -54,5 +54,8 @@ log/scanobjectnn/scanobjectnn-train-pointnet-ngpus1-seed369-20250209-171239-5MEQ
 
 Where the --cfg and --pretrained_path can be changed acordingly (in this example we used  pointnet.yaml).
 
+Finally add a "data" folder in the root, and insert the ScanObjectNN Dataset as can be donwloaded here: https://hkust-vgd.ust.hk/scanobjectnn/
+the "h5_files.zip" has to be downloaded.
+
 
 
