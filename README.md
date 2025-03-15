@@ -4,7 +4,6 @@ We provide a simple bash file to install the environment:
 ```
 git clone --recurse-submodules https://github.com/cenk6262/DL_on_pointclouds.git
 cd DL_on_pointclouds
-source update.sh
 source install.sh
 ```
 Cuda-11.3 is required. Modify the `install.sh` if a different cuda version is used. See [Install](docs/index.md) for detail. 
