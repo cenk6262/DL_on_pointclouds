@@ -3,7 +3,7 @@ We provide a simple bash file to install the environment:
 
 ```
 git clone --recurse-submodules https://github.com/cenk6262/DL_on_pointclouds.git
-cd PointNeXt
+cd DL_on_pointclouds
 source update.sh
 source install.sh
 ```
